@@ -1,0 +1,396 @@
+{
+  "Order": [
+    {
+      "UUID": "7e737d2f-31d2-4751-963f-be6ccc59cd0c",
+      "Name": "LeaderLib - Definitive Edition"
+    },
+    {
+      "UUID": "326b8784-edd7-4950-86d8-fcae9f5c457c",
+      "Name": "Animations Plus"
+    },
+    {
+      "UUID": "63ba2e9f-4e56-444b-b647-8445c76efe2e",
+      "Name": "Fixed_Human_Female_Walk"
+    },
+    {
+      "UUID": "c60718c3-ba22-4702-9c5d-5ad92b41ba5f",
+      "Name": "Weapon Expansion (Beta)"
+    },
+    {
+      "UUID": "9c2f709b-b06d-42a1-8b3f-daaa3ce4863f",
+      "Name": "WeaponExpansion武器扩展汉化补丁Chinese（CN.）"
+    },
+    {
+      "UUID": "4bcb0f56-d4dd-4241-9285-0f5710913edb",
+      "Name": "OdinCore - Mod Services"
+    },
+    {
+      "UUID": "13309eb2-0456-4bf4-8d2e-ad3f9b13ce4f",
+      "Name": "OdinCore Chinese Translation"
+    },
+    {
+      "UUID": "961ae59d-2964-46dd-9762-073697915dc2",
+      "Name": "Odinblade's Aerotheurge Class Overhaul"
+    },
+    {
+      "UUID": "0e8fce66-abd2-486c-b0c7-40e8fe71c236",
+      "Name": "Odinblade's Enhanced Summon Scaling"
+    },
+    {
+      "UUID": "ffb501cc-ab6d-46de-be89-732c9e289f3e",
+      "Name": "Odinblade's Geomancer Class Overhaul"
+    },
+    {
+      "UUID": "7db12ae8-0e96-4050-adb2-06c906897b70",
+      "Name": "Odinblade's Huntsman Class Overhaul"
+    },
+    {
+      "UUID": "02ca48b9-e4ef-a8e4-91d7-0b9df70bb595",
+      "Name": "Odinblade's Hydrosophist Class Overhaul"
+    },
+    {
+      "UUID": "8700ba4e-7d4b-40ca-a23f-b43816794957",
+      "Name": "Odinblade's Necromancer Class Overhaul"
+    },
+    {
+      "UUID": "aab53301-4f38-1d49-91f7-28dfa468084b",
+      "Name": "Odinblade's Pyrokinetic Class Overhaul"
+    },
+    {
+      "UUID": "0dc94eaa-688d-4a90-b43b-1a1fb2392f84",
+      "Name": "Odinblade's Scoundrel Class Overhaul"
+    },
+    {
+      "UUID": "e4a5c8ca-7f04-23ab-8115-18161eb702bf",
+      "Name": "Odinblade's Spectre Class: Definitive Edition"
+    },
+    {
+      "UUID": "c22c52be-7a44-1f58-f058-3b359421db05",
+      "Name": "Odinblade's Umbra Class: Definitive Edition"
+    },
+    {
+      "UUID": "723ad06b-0241-4a2e-a9f3-4d2b419e0fe3",
+      "Name": "Divinity Conflux"
+    },
+    {
+      "UUID": "432ed087-2c37-4fec-ac8e-c8dda40a2a6e",
+      "Name": "Divinity Conflux-CN"
+    },
+    {
+      "UUID": "491fe59f-02f5-4cfb-a729-a3d971af57be",
+      "Name": "Conflux Odin Library"
+    },
+    {
+      "UUID": "9e7cd16c-2c43-474f-aecc-04e82ada3a12",
+      "Name": "Cleric - Shared Resources"
+    },
+    {
+      "UUID": "d0b5eed9-ea5f-4aeb-90a0-0a2feab25905",
+      "Name": "Cleric - Elementalist"
+    },
+    {
+      "UUID": "a123dcca-51be-4076-b954-aacb53ab892b",
+      "Name": "Cleric - Guardian"
+    },
+    {
+      "UUID": "afd853ef-4349-4570-b869-fb5fc0a429ba",
+      "Name": "Cleric - Thaumaturge"
+    },
+    {
+      "UUID": "70fa2e46-cbed-4db6-8a9b-0e95e78add65",
+      "Name": "Cleric - Warfare Expanded"
+    },
+    {
+      "UUID": "14c18545-17b3-49cb-b4da-1b2c9c87270a",
+      "Name": "Cleric - Arcane Archer"
+    },
+    {
+      "UUID": "29ea3310-27c6-41d9-897b-8d4776c4322d",
+      "Name": "Cleric - Bladeweaver"
+    },
+    {
+      "UUID": "21745a4a-f8f7-4fea-9ddf-e95590bcb2d4",
+      "Name": "Feenex Core - Mod Library "
+    },
+    {
+      "UUID": "e533f740-990e-47aa-8ed9-3534f52c4f01",
+      "Name": "Feenex's Battle Pack: Definitive Edition"
+    },
+    {
+      "UUID": "6f5b4810-bb52-4bff-9eb0-3afcf7856045",
+      "Name": "Feenex's Battle Pack: Expanded"
+    },
+    {
+      "UUID": "1cb6dd66-021c-4d69-b78f-7162ffb4e7bf",
+      "Name": "Feenex's Battle Pack: Shapeshifting"
+    },
+    {
+      "UUID": "6083e4b8-5662-46df-a60c-c48b6b5a52b4",
+      "Name": "Feenex's Duskblade Class [NSE Required]"
+    },
+    {
+      "UUID": "25469b00-aa46-470d-aa76-f6c3ece35e17",
+      "Name": "Helaene - Shared Library"
+    },
+    {
+      "UUID": "78a84dd9-de34-c4c7-47a5-e47bd080ebb1",
+      "Name": "Helaene - Valkyrie Class (DE)"
+    },
+    {
+      "UUID": "ba43959a-490b-0846-6630-56a90568b651",
+      "Name": "Helaene - Vampire Class (DE)"
+    },
+    {
+      "UUID": "260d1263-4650-51f8-38dc-614f6c9536ed",
+      "Name": "Helaene - Wyldfae Class (DE)"
+    },
+    {
+      "UUID": "faac3525-c5b3-580d-6ef2-ed9797f68fb0",
+      "Name": "Helaene - Blacksmith Class (DE)"
+    },
+    {
+      "UUID": "958ef674-66ec-d208-1112-5c62ffbba16b",
+      "Name": "Helaene - Cryomancer Class (DE)"
+    },
+    {
+      "UUID": "0294c6d8-bdc1-401f-bea1-5d5a52972f7b",
+      "Name": "Helaene - Extra Ranger Skills (DE)"
+    },
+    {
+      "UUID": "53ed8826-71d6-452a-b9e5-faef35da8628",
+      "Name": "Helaene - Marauder Class (DE)"
+    },
+    {
+      "UUID": "3a5f27e8-2bb7-a1aa-210d-646fa48a1a98",
+      "Name": "Helaene - Mirage Class (DE)"
+    },
+    {
+      "UUID": "fd3534f5-99b9-cae1-a458-ecf9f3be5a3c",
+      "Name": "Helaene - Priest Class (DE)"
+    },
+    {
+      "UUID": "975c594c-2382-93a0-377a-847775be6c5b",
+      "Name": "Helaene - Succubus Class (DE)"
+    },
+    {
+      "UUID": "ca9ff65f-b16d-690a-22c5-6c3c31d8e597",
+      "Name": "Helaene - Trickster Class (DE)"
+    },
+    {
+      "UUID": "a38e646c-013d-129b-1520-a74315af869a",
+      "Name": "Heaphaistos's Berserker Class"
+    },
+    {
+      "UUID": "627f624f-e2b8-4b37-977e-03044e500fec",
+      "Name": "Majoras - Character Creation Plus - Definitive Edition"
+    },
+    {
+      "UUID": "5eff5134-bd00-4737-8046-ee88df0db07c",
+      "Name": "Unique Loot Drops"
+    },
+    {
+      "UUID": "9023e1dd-8232-4894-9a4a-cdc651e2729c",
+      "Name": "Unique Items Vendor"
+    },
+    {
+      "UUID": "a58383bf-0170-4153-8f21-d62f97b09fa7",
+      "Name": "Eternal Lockpick DE"
+    },
+    {
+      "UUID": "20a829f7-f062-4d88-8ab8-14d03232a13f",
+      "Name": "Eternal Repair Hammer (DE)"
+    },
+    {
+      "UUID": "b1215937-f790-4f86-b7b2-3277fc1c49c2",
+      "Name": "Eternal Trap Disarm Kit (DE)"
+    },
+    {
+      "UUID": "db07c22c-8935-3848-2366-7827b70c6030",
+      "Name": "LadyC - More Character Colors [DE]"
+    },
+    {
+      "UUID": "dbf1bb5f-01ad-41f0-ae99-fb88071da2d8",
+      "Name": "Lower Tornado Cooldown (DE)"
+    },
+    {
+      "UUID": "b2262d84-6aae-2a6f-d14b-132aef6c04a8",
+      "Name": "Rem+Ram's Race & Class Mode DE"
+    },
+    {
+      "UUID": "23425f2e-ca42-43bb-9e60-0948de7e9522",
+      "Name": "[DE] Instant merchant refresh"
+    },
+    {
+      "UUID": "a5fe7582-e182-4139-aba5-8ab85dd7b705",
+      "Name": "No More Dragging"
+    },
+    {
+      "UUID": "f63df88b-57fc-46f2-bb0f-9c8394f91c2e",
+      "Name": "Majoras - Project: Polymorph"
+    },
+    {
+      "UUID": "0a4abc04-3ca1-43c2-8db1-79dcdc98ba3a",
+      "Name": "Source Master [DE] "
+    },
+    {
+      "UUID": "c50e1032-8059-416e-8c4b-23b2cc0b22b7",
+      "Name": "Draconic Skill Pack"
+    },
+    {
+      "UUID": "f3cb3d6c-9b81-4996-b41c-1a336ff34e3a",
+      "Name": "Dragon Revamp"
+    },
+    {
+      "UUID": "946c7a2c-dd03-43fa-b51c-622446687c74",
+      "Name": "Vulture Armor Wings Override"
+    },
+    {
+      "UUID": "53cdc613-9d32-4b1d-adaa-fd97c4cef22c",
+      "Name": "Improved Hotbar"
+    },
+    {
+      "UUID": "3a364330-212b-4c1d-8e10-afdce6c576e4",
+      "Name": "Insane Carry Weight Increase"
+    },
+    {
+      "UUID": "23fd9162-a6c2-b4a7-9400-013b6ed3a0ac",
+      "Name": "Interesting Uniques (Definitive Edition)"
+    },
+    {
+      "UUID": "c03acb8a-03b9-4c79-84ff-3784e97774da",
+      "Name": "Let There Be Tooltips! - Definitive Edition"
+    },
+    {
+      "UUID": "dccbb601-69b0-46c9-bff8-69c58ef719af",
+      "Name": "Lily&Rose Redux: Summonable Dragon pets [DE]"
+    },
+    {
+      "UUID": "eb1dcaf0-5c53-47f8-a787-c4fca0f46fee",
+      "Name": "Organized Containers - DE"
+    },
+    {
+      "UUID": "55402b6a-bceb-487b-85e1-98106dbda3fe",
+      "Name": "Sebille Elf Armor Finesse Replacement [DE]"
+    },
+    {
+      "UUID": "19bbc515-52aa-4143-8a47-f724c55fe9f8",
+      "Name": "Source Refund - DE"
+    },
+    {
+      "UUID": "9f950d73-12ad-43c5-ab18-23764f3cfc34",
+      "Name": "Adaptive Lizards [DE]"
+    },
+    {
+      "UUID": "9691a30c-c822-e0c3-c365-2619662ac3e1",
+      "Name": "Astronomer Class Definitive Edition"
+    },
+    {
+      "UUID": "d6f39d86-b997-47dd-ba80-714208735a36",
+      "Name": "Astronomer Class - 100% Chance (DE)"
+    },
+    {
+      "UUID": "e7768eed-e5ad-3415-e825-ca6fdef9844f",
+      "Name": "Auto Identify - Definitive Edition"
+    },
+    {
+      "UUID": "4be47720-c27f-40d6-b162-3bb2fcf3ebff",
+      "Name": "Automatic Item Leveling"
+    },
+    {
+      "UUID": "85e77248-61fb-4664-aa53-bf27a9274928",
+      "Name": "Better Build Diversity - Armor & Attribute Overhaul"
+    },
+    {
+      "UUID": "173e1939-2e97-1467-c7db-02a7b33aa786",
+      "Name": "BonusUniques"
+    },
+    {
+      "UUID": "568c51d7-bc0f-4d0c-ba6e-5303ff2775b4",
+      "Name": "Character Creation Gear"
+    },
+    {
+      "UUID": "244a4c62-4587-f828-4732-c106db4ec980",
+      "Name": "Chronomancer Class Definitive Edition "
+    },
+    {
+      "UUID": "714099a1-56a8-f06c-0c76-6e351119a89e",
+      "Name": "Chronomancer Class - Magic (DE)"
+    },
+    {
+      "UUID": "13672a03-8690-45c5-b3d1-50cfcd48b401",
+      "Name": "Cleric - Deadeye"
+    },
+    {
+      "UUID": "4e0569e4-8881-4f9c-be1c-748796a0ce99",
+      "Name": "Cleric - The Assassin"
+    },
+    {
+      "UUID": "794c3076-8c6b-712f-ffc6-cb726f84e4f1",
+      "Name": "Constellationist Class Definitive Edition"
+    },
+    {
+      "UUID": "6aaa43a9-3a72-e82e-a6f6-8c367fd82117",
+      "Name": "Crafting Overhaul [DE]"
+    },
+    {
+      "UUID": "4555220a-b32d-46ee-903e-2798c99d801d",
+      "Name": "Deadly Skill Pack"
+    },
+    {
+      "UUID": "3a8fc694-d33b-4e7c-aca8-ed1086f79f87",
+      "Name": "Cap Tweaks Insanity Edition"
+    },
+    {
+      "UUID": "a3272342-8b44-438d-ad5f-022d851c9aed",
+      "Name": "RuneSlots3"
+    },
+    {
+      "UUID": "4c70afb3-550a-40ee-a8c3-9131217a80dd",
+      "Name": "Enhanced Memory Insanity Edition"
+    },
+    {
+      "UUID": "07bdf84e-5b41-4c88-b851-cf18a3513549",
+      "Name": "WeapFX"
+    },
+    {
+      "UUID": "27db95b3-6850-48c5-baec-3a1f2df9a825",
+      "Name": "Bartering Tweaks"
+    },
+    {
+      "UUID": "7d821d58-15b0-4a76-bfcc-59ad6d52acce",
+      "Name": "ElementalSchoolsOfMagicGiveResistances"
+    },
+    {
+      "UUID": "c46b8710-e5f5-45f5-9485-a3993e11c951",
+      "Name": "Purple Necrofire"
+    },
+    {
+      "UUID": "063bd8ca-418b-4a5d-896b-370837706094",
+      "Name": "VanityReboot"
+    },
+    {
+      "UUID": "2dd896dc-28eb-443e-8405-0d339375d2c8",
+      "Name": "Majoras - Project: Fashion Sins"
+    },
+    {
+      "UUID": "d90767cb-e207-4cc3-8ee6-d159b08f293c",
+      "Name": "Majoras/Feenex Shapeshifting [NSE Required]"
+    },
+    {
+      "UUID": "01888044-40fa-4250-8934-add840ac23b7",
+      "Name": "Party Size Evolved"
+    },
+    {
+      "UUID": "5cd57d24-f53b-c6a5-1561-a9e44ee14faf",
+      "Name": "Better Clouds [DE]"
+    },
+    {
+      "UUID": "a17f9b56-aa1b-4fd9-9c48-aef09d2f34a5",
+      "Name": "Loading Screen Replacer"
+    },
+    {
+      "UUID": "8e8a1488-783a-43f3-9e60-665321135fdd",
+      "Name": "FourRelicsForPickUp"
+    }
+  ]
+}
